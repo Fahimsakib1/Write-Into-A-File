@@ -1,0 +1,3 @@
+ 101   Corona 
+ 102   AIDS 
+ 103   Dengue 
